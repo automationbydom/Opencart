@@ -1,0 +1,35 @@
+09:37:57.260 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+09:40:04.240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+09:46:37.996 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+09:53:17.032 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+10:00:23.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+10:06:58.878 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+10:07:31.499 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
+10:07:32.528 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount link
+10:07:37.782 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register link
+10:07:37.787 [main] INFO  testCases.TC001_RegistrationTest - Providing customer's details!
+10:07:45.650 [main] INFO  testCases.TC001_RegistrationTest - Validating expected message!
+10:08:21.002 [main] INFO  testCases.TC002_LoginTest - *** Started LoginTest! ***
+10:08:26.812 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+10:08:26.815 [main] INFO  testCases.TC002_LoginTest - Inputted user email
+10:08:27.734 [main] INFO  testCases.TC002_LoginTest - Inputted user password
+10:08:28.190 [main] INFO  testCases.TC002_LoginTest - Clicked on Login button
+10:08:34.043 [main] INFO  testCases.TC002_LoginTest - *** Completed TC002_LoginTest execution! *** 
+10:11:01.642 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+10:11:57.141 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+10:11:57.283 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
+10:12:30.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+10:16:56.574 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+10:23:38.047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+21:00:05.223 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+21:01:47.607 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
+21:02:02.508 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
+21:02:02.754 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount link
+21:02:03.399 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register link
+21:02:03.401 [main] INFO  testCases.TC001_RegistrationTest - Providing customer's details!
+21:02:04.934 [main] INFO  testCases.TC001_RegistrationTest - Validating expected message!
+21:02:09.781 [main] INFO  testCases.TC002_LoginTest - *** Started LoginTest! ***
+21:02:10.656 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+21:02:10.657 [main] INFO  testCases.TC002_LoginTest - Inputted user email
+21:02:10.691 [main] INFO  testCases.TC002_LoginTest - Inputted user password
+21:02:10.707 [main] INFO  testCases.TC002_LoginTest - Clicked on Login button

@@ -1,0 +1,52 @@
+                                    Logs
+                                    -----
+ Logging - record all the events of application in form of a text
+ Log Levels - All > Trace > Debug > Info > Warn > Error > Fatal < Off
+
+ Appenders - Where to generate logs(Console/File)
+ Loggers - What type of logs generated(All > Trace > Debug > Info > Warn > Error > Fatal < Off)
+
+
+Rerun Failed Tests:
+In the Test Results window, look for the Rerun Failed Tests option. This is usually represented by a small button with a red arrow icon or labeled as Rerun Failed Tests.
+Click on this button, and IntelliJ will automatically rerun only the tests that failed in the previous run.
+
+Using Keyboard Shortcuts:
+If you prefer using keyboard shortcuts, you can use Ctrl + F5 (Windows/Linux) or
+Command + Shift + R (macOS) to rerun the last failed tests
+
+
+
+Creating and running run.sh file using nano
+-------------------------------------------
+1. Create the file: touch run.sh
+2. Open the file for editing: nano run.sh
+3. Save and Exit: If you are using nano, save and exit by pressing CTRL + X, then Y, and finally ENTER.
+4. Make the script executable: chmod +x run.sh
+5. Run the script: ./run.sh
+
+
+Git Commands
+------------
+1. git init --> create repository
+2. Provide user info to git repo.
+ 2.1 git config --global user.name ""
+ 2.2 git config --global user.email ""
+3. Adding files/folders to staging/indexing
+  3.1 git add -A
+  3.2 git add file name
+  3.3 git add folder name
+  3.4 git add *.java
+4. Commit the code to local(Git) repository
+   4.1 git commit -m "Commit Message"
+5. Other commands:
+    5.1 git status --> Check status
+
+
+  Github URL
+  -------------
+ https://github.com/pavanoltraining/OpencartV121/tree/master/src/test
+
+ local repo: /Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/.git/
+
+
