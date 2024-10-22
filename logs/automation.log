@@ -1,35 +1,137 @@
-09:37:57.260 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-09:40:04.240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-09:46:37.996 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-09:53:17.032 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-10:00:23.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-10:06:58.878 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-10:07:31.499 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
-10:07:32.528 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount link
-10:07:37.782 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register link
-10:07:37.787 [main] INFO  testCases.TC001_RegistrationTest - Providing customer's details!
-10:07:45.650 [main] INFO  testCases.TC001_RegistrationTest - Validating expected message!
-10:08:21.002 [main] INFO  testCases.TC002_LoginTest - *** Started LoginTest! ***
-10:08:26.812 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
-10:08:26.815 [main] INFO  testCases.TC002_LoginTest - Inputted user email
-10:08:27.734 [main] INFO  testCases.TC002_LoginTest - Inputted user password
-10:08:28.190 [main] INFO  testCases.TC002_LoginTest - Clicked on Login button
-10:08:34.043 [main] INFO  testCases.TC002_LoginTest - *** Completed TC002_LoginTest execution! *** 
-10:11:01.642 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-10:11:57.141 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-10:11:57.283 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
-10:12:30.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-10:16:56.574 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-10:23:38.047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-21:00:05.223 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-21:01:47.607 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/master.xml"
-21:02:02.508 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
-21:02:02.754 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount link
-21:02:03.399 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register link
-21:02:03.401 [main] INFO  testCases.TC001_RegistrationTest - Providing customer's details!
-21:02:04.934 [main] INFO  testCases.TC001_RegistrationTest - Validating expected message!
-21:02:09.781 [main] INFO  testCases.TC002_LoginTest - *** Started LoginTest! ***
-21:02:10.656 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
-21:02:10.657 [main] INFO  testCases.TC002_LoginTest - Inputted user email
-21:02:10.691 [main] INFO  testCases.TC002_LoginTest - Inputted user password
-21:02:10.707 [main] INFO  testCases.TC002_LoginTest - Clicked on Login button
+17:02:45.507 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/grouping.xml"
+17:02:45.584 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/grouping.xml
+
+17:02:56.795 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
+17:02:56.831 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount link
+17:02:57.457 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register link
+17:02:57.458 [main] INFO  testCases.TC001_RegistrationTest - Providing customer's details!
+17:02:58.653 [main] INFO  testCases.TC001_RegistrationTest - Validating expected message!
+17:03:02.226 [main] INFO  testCases.TC002_LoginTest - *** Started LoginTest! ***
+17:03:02.655 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+17:03:02.656 [main] INFO  testCases.TC002_LoginTest - Inputted user email
+17:03:02.764 [main] INFO  testCases.TC002_LoginTest - Inputted user password
+17:03:02.809 [main] INFO  testCases.TC002_LoginTest - Clicked on Login button
+17:03:04.196 [main] INFO  testCases.TC002_LoginTest - *** Completed TC002_LoginTest execution! *** 
+17:04:10.700 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/grouping.xml"
+17:04:10.778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/grouping.xml
+
+17:04:14.702 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
+17:04:14.738 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount link
+17:04:15.369 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register link
+17:04:15.371 [main] INFO  testCases.TC001_RegistrationTest - Providing customer's details!
+17:04:16.698 [main] INFO  testCases.TC001_RegistrationTest - Validating expected message!
+17:04:20.431 [main] INFO  testCases.TC002_LoginTest - *** Started LoginTest! ***
+17:04:20.819 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+17:04:20.820 [main] INFO  testCases.TC002_LoginTest - Inputted user email
+17:04:20.923 [main] INFO  testCases.TC002_LoginTest - Inputted user password
+17:04:20.971 [main] INFO  testCases.TC002_LoginTest - Clicked on Login button
+17:04:22.131 [main] INFO  testCases.TC002_LoginTest - *** Completed TC002_LoginTest execution! *** 
+17:06:28.859 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/grouping.xml"
+17:06:28.941 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lotukei/Desktop/JAVA-SELENIUM/Hybrid_Framework/Opencart/grouping.xml
+
+17:06:32.602 [main] INFO  testCases.TC001_RegistrationTest - Started AccountRegistrationTest
+17:06:32.638 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount link
+17:06:33.309 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register link
+17:06:33.311 [main] INFO  testCases.TC001_RegistrationTest - Providing customer's details!
+17:06:34.613 [main] INFO  testCases.TC001_RegistrationTest - Validating expected message!
+17:06:38.263 [main] INFO  testCases.TC002_LoginTest - *** Started LoginTest! ***
+17:06:38.684 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+17:06:38.685 [main] INFO  testCases.TC002_LoginTest - Inputted user email
+17:06:38.790 [main] INFO  testCases.TC002_LoginTest - Inputted user password
+17:06:38.834 [main] INFO  testCases.TC002_LoginTest - Clicked on Login button
+17:06:39.942 [main] INFO  testCases.TC002_LoginTest - *** Completed TC002_LoginTest execution! *** 
+17:06:43.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:43.834 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:43.835 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:43.981 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.019 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.024 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.035 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.043 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.043 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.044 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.047 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.052 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.056 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.061 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.065 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.075 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.083 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.091 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.098 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.104 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.111 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.117 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.122 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.125 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.125 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.127 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.130 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.133 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.136 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.136 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.139 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.141 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.141 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.142 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.143 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.151 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.154 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:06:44.154 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:06:44.155 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:06:44.156 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:06:44.159 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Starting TC003_LoginDataDrivenTest ***
+17:06:58.279 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Finished LoginDataDrivenTest ***
+17:06:58.281 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Starting TC003_LoginDataDrivenTest ***
+17:07:03.246 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Finished LoginDataDrivenTest ***
+17:07:03.248 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Starting TC003_LoginDataDrivenTest ***
+17:07:08.264 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Finished LoginDataDrivenTest ***
+17:07:08.269 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Starting TC003_LoginDataDrivenTest ***
+17:07:22.503 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Finished LoginDataDrivenTest ***
+17:07:22.507 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Starting TC003_LoginDataDrivenTest ***
+17:07:28.432 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Finished LoginDataDrivenTest ***
+17:07:28.437 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Starting TC003_LoginDataDrivenTest ***
+17:07:42.650 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Finished LoginDataDrivenTest ***
